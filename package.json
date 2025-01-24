@@ -4,6 +4,8 @@
     "hardhat": "^2.22.18"
   },
   "dependencies": {
-    "dotenv": "^16.4.7"
+    "@coinbase/wallet-sdk": "^4.3.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5"
   }
 }
